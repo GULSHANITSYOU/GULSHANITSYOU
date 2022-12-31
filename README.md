@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GULSHANITSYOU
+- 👋 Hi, I’m GULSHAN KUMAR 
 - 👀 I’m interested in WEB DEVELOPMENT , android development , & quant trading  
 - 🌱 I’m currently learning c++ & dsa 
 - 💞️ I’m looking to collaborate on ...
