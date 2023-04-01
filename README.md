@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GULSHAN KUMAR 
-- 👀 I’m interested in WEB DEVELOPMENT , android development , & quant trading  
+- 👀 I’m interested in WEB DEVELOPMENT ,  Quant trading  
 - 🌱 I’m currently learning c++ & dsa 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gulshanitsyou@gamil.com & @gulshanitsyou on instagran ;
