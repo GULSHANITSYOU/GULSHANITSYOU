@@ -16,7 +16,8 @@
 - 🌱 When I'm not coding, you can find me exploring new technologies, playing sports, or taking a walk in nature to refresh my mind.
      Let's connect and collaborate! Feel free to explore my projects and contributions. 🤝
 
-- 📫 How to reach me gulshanitsyou@gamil.com & [@gulshanitsyou](https://www.instagram.com/gulshanitsyou/) on instagran 
+- 📫 How to reach me gulshanitsyou@gamil.com & [@gulshanitsyou](https://www.instagram.com/gulshanitsyou/) on instagran
+- 
 
 <!---
 GULSHANITSYOU/GULSHANITSYOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
