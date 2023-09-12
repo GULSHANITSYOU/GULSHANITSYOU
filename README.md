@@ -1,5 +1,5 @@
 
-- 👋 Hi there! I'm Gulshan Kumar, a B.Tech student pursuing Computer Science from Phonics Group of Collage Haridwar, Uttarakhand, India.
+- 👋 Hi there! I'm Gulshan Kumar, a B.sc (IT) student pursuing  information technology from Phonics Group of Collage Haridwar, Uttarakhand, India.
 
 - 🎓 Currently, I am exploring the exciting world of modern web development, with a strong interest in creating amazing web applications and websites. I find 
     joy in crafting interactive and user-friendly experiences on the web.
